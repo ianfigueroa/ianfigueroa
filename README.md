@@ -1,8 +1,6 @@
 ## Ian Figueroa
 
-```
-Software Developer | Trading Systems | Quantitative Tools
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Software+Developer;Trading+Systems;Real-time+Data+Pipelines;Quantitative+Tools" alt="Typing SVG" /></a>
 
 Building low-latency systems, real-time data pipelines, and order flow analysis tools.
 
