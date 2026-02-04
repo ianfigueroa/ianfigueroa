@@ -72,6 +72,6 @@ Building low-latency systems, real-time data pipelines, and order flow analysis 
 ---
 
 <p align="center">
-  <a href="https://ianfigueroa.netlify.app">Portfolio</a> · 
+  <a href="https://ianfigueroa.github.io/portfolio/">Portfolio</a> · 
   <a href="https://linkedin.com/in/ian-figueroa1">LinkedIn</a>
 </p>
